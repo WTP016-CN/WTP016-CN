@@ -1,25 +1,7 @@
 ```Python
 python = "github"
 if python == "github":
-    print("Excellerate your efforts.")
-```
-
-```Java
-package com.wtp016.github.readme;
-
-public final class README extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
-        getLogger().info("Open your eyes and see things as they really are.")
-    }
-
-    @Override
-    public void onDisable() {
-        getLogger().info("In the end, everything will disappear.")
-    }
-}
-
+    print("你好这是一个屑开发者，别看了，快关掉吧")
 ```
 
 Do you known me?
