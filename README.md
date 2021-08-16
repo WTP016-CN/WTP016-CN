@@ -2,7 +2,8 @@
 [![Blog](https://img.shields.io/badge/blog-%40wtp016-red)](https://wtp016-cn.github.io)
 ---
 <img align="right" alt="GIF" height="230px" src="https://raw.githubusercontent.com/TheZihanGu/TheZihanGu/master/img/HEAD.gif" />
-## Hi there! this is WTP016, a student from a junior high school.   
+## Hi there! this is WTP016, a student from a junior high school.
+
 I'm Chinese so my English may not be particularly good! That's why I sometimes use machine translation to communicate with you.
 🐟 Currently working on nothing.
 
