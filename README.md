@@ -8,7 +8,7 @@
 Hi there! I'm WTP016, a student from junior high school.
 
 
-I'm Chinese so my English may not be particularly good! That's why I sometimes use machine translation to communicate with you.
+I'm Chinese so my English may not be particularly good, that's why I sometimes use machine translation to communicate with you.
 
 
 🐟 Currently working on nothing.
