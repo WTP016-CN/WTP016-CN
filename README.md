@@ -12,7 +12,7 @@ I'm Chinese so my English may not be particularly good, that's why I sometimes u
 
 * 🐟 Currently working on nothing.
 
-* 👨🏻‍💻 But now I'm working on LTCatt/PCL2Help.
+* 👨🏻‍💻 But now I'm working on LTCatt/PCL2Help. I have 4 pull requests on it!
 
 ## My Github Stats
 [![WTP016-CN's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtp016-cn&show_icons=true&theme=graywhite&count_private=true)](https://wtp016-cn.github.io)
