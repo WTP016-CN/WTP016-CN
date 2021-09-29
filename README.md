@@ -25,4 +25,4 @@ Please check the emails, Twitter and other information on the left.
 You can also have a view to my blog! [Click Here!](https://wtp016.notion.site/WTP016-s-Blog-694add14d9d042d985a838c26107f7c9)
 
 ## Licenses and Delegation
-**If not stated otherwise, non-software repository are licensed under CC-BY-SA 4.0 International / CC-BY-SA 3.0 China and software repository are licensed under the MIT License.**
+**If not stated otherwise, non-software repository are licensed under CC-BY-SA 4.0 and software repository are licensed under the MIT License.**
