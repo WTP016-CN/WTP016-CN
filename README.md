@@ -14,6 +14,8 @@ I'm Chinese so my English may not be particularly good, that's why I sometimes u
 
 * 👨🏻‍💻 But now I'm working on LTCatt/PCL2Help. I have 4 pull requests on it!
 
+* 🍜 I'm interested in transportation card, especially in "全国交通一卡通互联互通工程"(China Transportation Card Interconnection Project, or China T-union)、"全国城市一卡通互联互通工程"(China City Card Interconnection Project, or City Union)、“岭南通”(Guangdong Province Transportation Card Interconnection Project)。
+
 ## My Github Stats
 [![WTP016-CN's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtp016-cn&show_icons=true&theme=graywhite&count_private=true)](https://wtp016-cn.github.io)
 
@@ -22,7 +24,6 @@ I'm Chinese so my English may not be particularly good, that's why I sometimes u
 
 ## Contact Me
 Please check the emails, Twitter and other information on the left.
-You can also have a view to my blog! [Click Here!](https://wtp016-cn.github.io)
 
 ## Licenses and Delegation
 **If not stated otherwise, non-software repository are licensed under CC-BY-SA 4.0 and software repository are licensed under the MIT License.**
