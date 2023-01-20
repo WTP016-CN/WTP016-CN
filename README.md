@@ -12,7 +12,7 @@ I'm Chinese so my English may not be particularly good, that's why I sometimes u
 
 * 🐟 Currently working on nothing.
 
-* 👨🏻‍💻 But now I'm working on LTCatt/PCL2Help. I have 4 pull requests on it!
+* 👨🏻‍💻 But now I work as a collaborator in the Hex-Dragon/PCL2 repository dealing with issues.
 
 * 🍜 I'm interested in transportation card, especially in "全国交通一卡通互联互通工程"(China Transportation Card Interconnection Project, or China T-union)、"全国城市一卡通互联互通工程"(China City Card Interconnection Project, or City Union)、“岭南通”(Guangdong Province Transportation Card Interconnection Project)。
 
@@ -24,6 +24,7 @@ I'm Chinese so my English may not be particularly good, that's why I sometimes u
 
 ## Contact Me
 Please check the emails, Twitter and other information on the left.
+You can also contact me via Wikipedia: [Click Here](https://en.wikipedia.org/wiki/User_talk:WTP016-CN)
 
 ## Licenses and Delegation
 **If not stated otherwise, non-software repository are licensed under CC-BY-SA 4.0 and software repository are licensed under the MIT License.**
