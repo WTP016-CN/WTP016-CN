@@ -1,5 +1,4 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Blog](https://img.shields.io/badge/blog-%40wtp016-red)](https://wtp016-cn.github.io)
 ---
 <img align="right" alt="GIF" height="230px" src="https://cdn.jsdelivr.net/gh/TheZihanGu/TheZihanGu@master/img/HEAD.gif" />
 
